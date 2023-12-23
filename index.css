@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 50px 120px;
+    padding: 15px;
+    height: 100vh;
+    box-shadow: 1px 1px 10px 2px #888888;
+}
+
+.name {
+    padding: 2rem;
+    font-weight: 600;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.projects {
+    text-align: left;
+    margin: 0px 10px;
+    padding: 0.625rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.education {
+    text-align: left;
+    margin: 0px 10px;
+    padding: 0.625rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.certification {
+    text-align: left;
+    margin: 0px 10px;
+    padding: 0.625rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.skill {
+    text-align: left;
+    margin: 0px 10px;
+    padding: 0.625rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
